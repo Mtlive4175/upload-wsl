@@ -1,0 +1,10 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+raw.githubusercontent.com	0	0	1774071249	31536000
+tesla.en.uptodown.com	0	1	1774003084	16000000
+archive.openwrt.org	0	0	1774050133	15768000
+downloads.openwrt.org	0	0	1778686545	15768000
+my.esri.com	0	1	1777876996	31536000
+www.esri.com	0	0	1777876997	15768000
+github.com	0	1	1774071252	31536000
