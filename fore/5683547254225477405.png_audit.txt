@@ -1,0 +1,58 @@
+AUDIT REPORT FOR: 5683547254225477405.png
+TIMESTAMP: Fri May 15 12:06:08 CST 2026
+--------------------------------------
+
+[1] FILE IDENTITY
+/data/data/com.termux/files/home/fore/5683547254225477405.png: PNG image data, 607 x 1080, 8-bit/color RGB, non-interlaced
+
+[2] CHECKSUM
+c703b4e15a540baf62f9cb6aab99bf4f0e59e3bf1197fc72937f6a5dd2024ce2  /data/data/com.termux/files/home/fore/5683547254225477405.png
+
+[3] METADATA
+ExifTool Version Number         : 13.58
+File Name                       : 5683547254225477405.png
+Directory                       : /data/data/com.termux/files/home/fore
+File Size                       : 736 kB
+File Modification Date/Time     : 2026:05:15 11:24:25+08:00
+File Access Date/Time           : 2026:05:15 11:24:25+08:00
+File Inode Change Date/Time     : 2026:05:15 11:25:46+08:00
+File Permissions                : -rw-------
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 607
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Significant Bits                : 8 8 8
+Image Size                      : 607x1080
+Megapixels                      : 0.656
+
+[4] STRINGS
+IHDR
+sRGB
+sBIT
+IDATx
+kyrGF
+jf><
+1QfF
+/UUw
+;>PU
+EXDD
+*ATJQU
+g&3c
+1L E
+RrDD
+w-ED88
+xd|u
+0c>S8
+pQU-
+z~}}a
+F8~(
+
+[5] STRUCTURE
+/data/data/com.termux/files/home/fore/watcher.sh: line 38: pngcheck: command not found
